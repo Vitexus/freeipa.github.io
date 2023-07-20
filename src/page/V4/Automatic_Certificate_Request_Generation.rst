@@ -170,7 +170,7 @@ Configuration
 The mapping rules will be specified via configuration files in JSON
 format. For the older design, in which mappings were stored in the IPA
 database, see
-`V4/Automatic_Certificate_Request_Generation/Schema <./Schema>`__.
+`V4/Automatic_Certificate_Request_Generation/Schema <Automatic_Certificate_Request_Generation/Schema>`__.
 
 There are two types of configuration files meant to be accessible to
 users: Cert profile configurations contain a JSON array of:
